@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cerist_logo.webp" width="45" align="left">
+  <img src="cerist-logo.png" width="45" align="left">
   <img src="kalima_logo.png" width="65" align="right" style="vertical-align: -5px;">
 
   <h1 align="center">AraManuscript-VL: Arabic Manuscript Recognition</h1>
