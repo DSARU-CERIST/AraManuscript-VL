@@ -102,7 +102,7 @@ pip install -r requirements.txt
 
 ## Citation
 
-If you use this model, its fine-tuning code, results, or the datasets used in this work in your research, please cite the following references:
+If you use this model, its fine-tuning code, or the results reported in this work in your research, please cite the following reference:
 
 ```bibtex
 @software{dsaru-ceristAraManuscript-VL,
